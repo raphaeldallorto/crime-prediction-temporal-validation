@@ -1,0 +1,3 @@
+# Datasets
+data/raw/*.parquet
+data/future/*.parquet
