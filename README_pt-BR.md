@@ -5,8 +5,6 @@
 
 > Sistema de previsão e classificação de crimes urbanos usando aprendizado de máquina com validação temporal rigorosa para prevenir vazamento de dados
 
-[![Python](https://img.shields.io/badge/Python-3.9+-![Licença](https://img.shields.io/badge/Licença-MIT-green
-
 ## 📊 Visão Geral
 
 Sistema integrado de predição criminal com dois módulos complementares:
@@ -106,3 +104,4 @@ Se você usar este trabalho, por favor cite:
 ## 📜 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
